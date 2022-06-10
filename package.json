@@ -1,0 +1,35 @@
+{
+  "name": "eslint-config-react",
+  "version": "0.0.1",
+  "description": "React Eslint/Prettier configs",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diogosilva5/eslint-config-react.git"
+  },
+  "keywords": [
+    "eslint"
+  ],
+  "author": "Diogo Silva <@diogosilva5>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diogosilva5/eslint-config-react/issues"
+  },
+  "homepage": "https://github.com/diogosilva5/eslint-config-react#readme",
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.27.1",
+    "@typescript-eslint/parser": "^5.27.1",
+    "eslint": "^8.17.0",
+    "eslint-config-airbnb": "^19.0.4",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-import-helpers": "^1.2.1",
+    "eslint-plugin-jest": "^26.5.3",
+    "eslint-plugin-jsx-a11y": "^6.5.1",
+    "eslint-plugin-prettier": "^4.0.0",
+    "eslint-plugin-react": "^7.30.0",
+    "eslint-plugin-react-hooks": "^4.5.0",
+    "eslint-plugin-testing-library": "^5.5.1",
+    "eslint-plugin-unused-imports": "^2.0.0",
+    "prettier": "^2.6.2"
+  }
+}
